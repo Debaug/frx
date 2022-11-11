@@ -1,0 +1,9 @@
+[package]
+name = "frx"
+version = "0.1.0"
+authors = ['Thibault "Debaug" Guignard <tibgpublic@gmail.com>']
+edition = "2021"
+description = "Fast regular expressions for Rust."
+repository = "https://github.com/Debaug/frx"
+license = "MIT OR Apache-2.0"
+keywords = ["regex"]
